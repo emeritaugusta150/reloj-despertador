@@ -1,4 +1,4 @@
-Reloj-despertador
+Reloj-despertador básico
 
 Lenguaje Python
 
